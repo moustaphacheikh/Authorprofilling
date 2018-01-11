@@ -6,7 +6,7 @@ from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 import re
 
-
+import numpy as np
 
 
 
